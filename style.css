@@ -1,0 +1,144 @@
+header {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho-imagem{
+    width: 5%;
+}
+
+.cabecalho {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-imagem{
+    width: 35%;
+}
+
+.escola{
+    background-image: linear-gradient(#000000,#000000);
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.escola-div-conteudo{
+    width: 40%;
+    font-size: x-large;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.escolinha-titulo{
+    padding: 24px 0;
+}
+
+.escolinha-imagem{
+    width: 35%;
+}
+
+.escolinha{
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.escolinha-div-conteudo{
+    width: 40%;
+    font-size: x-large;
+}
+
+.escolinha-titulo{
+    padding: 24px 0;
+}
+
+.escolona-imagem{
+    width: 35%;
+}
+
+.escolona{
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.escolona-texto-oito{
+    color: #888888;
+}
+
+.escolona-div-conteudo{
+    width: 40%;
+    font-size: x-large;
+}
+
+.escolona-titulo{
+    padding: 24px 0;
+}
+
+.escolinhadois-imagem{
+    width: 35%;
+}
+
+.escolinhadois{
+    background-color: #292929;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.escolinhadois-div-conteudo{
+    width: 40%;
+    font-size: x-large;
+}
+
+.escolinhadois-titulo{
+    padding: 24px 0;
+}
+
+.rodape{
+    background-color: #000000;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    text-align: center;
+}
+
+.cabecalho-lista-item a{
+    text-decoration: none; 
+    color: white;
+}
